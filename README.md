@@ -1,2 +1,4 @@
 # hello-word
-Olá Mundo 
+
+print ("Olá Mundo") 
+
